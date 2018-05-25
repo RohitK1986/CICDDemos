@@ -2,6 +2,5 @@ C:\CICIDDemos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\CICIDDemos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\CICIDDemos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\CICIDDemos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\CICIDDemos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\CICIDDemos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\CICIDDemos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
